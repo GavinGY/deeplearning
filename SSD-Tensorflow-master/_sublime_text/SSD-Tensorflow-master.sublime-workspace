@@ -1,0 +1,680 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"cta",
+				"ctags"
+			],
+			[
+				"sting",
+				"storing"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/E/Study/Python/_StudyProject/SSD-Tensorflow-master/tf_extended/math.py",
+			"settings":
+			{
+				"buffer_size": 2653,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/E/Study/Python/_StudyProject/SSD-Tensorflow-master/caffe_to_tensorflow.py",
+			"settings":
+			{
+				"buffer_size": 2227,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/E/Study/Python/_StudyProject/SSD-Tensorflow-master/COMMANDS.md",
+			"settings":
+			{
+				"buffer_size": 12024,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/E/Study/Python/_StudyProject/SSD-Tensorflow-master/README.md",
+			"settings":
+			{
+				"buffer_size": 9293,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				]
+			],
+			[
+				"Packages/Makefile/Make.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				],
+				[
+					"Packages/User/my_make.sublime-build",
+					""
+				],
+				[
+					"Packages/User/my_make.sublime-build",
+					"Clean"
+				],
+				[
+					"Packages/User/my_make.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/Makefile/Make.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/makefile.sublime-build",
+					""
+				],
+				[
+					"Packages/User/makefile.sublime-build",
+					"clean"
+				],
+				[
+					"Packages/User/makefile.sublime-build",
+					"3390b0"
+				]
+			],
+			[
+				"Packages/User/makefile.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/my_make.sublime-build",
+					""
+				],
+				[
+					"Packages/User/my_make.sublime-build",
+					"Clean"
+				],
+				[
+					"Packages/User/my_make.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/User/my_make.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 203.0,
+		"last_filter": "Package Control: ins",
+		"selected_items":
+		[
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"pci",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: re",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Add Channel"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"git log",
+				"Git: Log All"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"make",
+				"Build With: Make"
+			],
+			[
+				"my_make",
+				"Build With: my_make"
+			],
+			[
+				"make ",
+				"Build With: my_make - clean"
+			],
+			[
+				" make clen",
+				"Build With: makefile - clean"
+			],
+			[
+				"makefile",
+				"Build With: makefile"
+			],
+			[
+				"build",
+				"Build With: makefile - clean"
+			],
+			[
+				"View:Toggle Menu",
+				"View: Toggle Menu"
+			],
+			[
+				"makefile ",
+				"Build With: makefile - clean"
+			],
+			[
+				"make c",
+				"Build With: Make - Clean"
+			],
+			[
+				"git commo",
+				"Git: Custom Command"
+			],
+			[
+				"git win",
+				"Git: Show Previous Version of Current File"
+			],
+			[
+				"",
+				"Git: Add Current File"
+			],
+			[
+				"git commit ",
+				"Git: Commit"
+			],
+			[
+				"git add",
+				"Git: Add Current File"
+			],
+			[
+				"git commit",
+				"Git: Commit"
+			],
+			[
+				"Git",
+				"Git: Gui"
+			],
+			[
+				"git commond",
+				"Git: Custom Command"
+			],
+			[
+				"git add ",
+				"Git: Add All"
+			],
+			[
+				"Git commit ",
+				"Set Syntax: Git Commit Message"
+			],
+			[
+				"Git commit",
+				"Git: Commit"
+			],
+			[
+				"Git add",
+				"Git: Add All"
+			],
+			[
+				"Git log",
+				"Git: Log All"
+			],
+			[
+				"Git: Version",
+				"Plugin Development: Convert Syntax to .sublime-syntax"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Local Dependency"
+			]
+		],
+		"width": 412.0
+	},
+	"console":
+	{
+		"height": 152.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/E/Study/Python/_StudyProject/SSD-Tensorflow-master",
+		"/E/Study/Python/_StudyProject/SSD-Tensorflow-master/datasets",
+		"/E/Study/Python/_StudyProject/SSD-Tensorflow-master/notebooks",
+		"/E/Study/Python/_StudyProject/SSD-Tensorflow-master/notebooks/.ipynb_checkpoints",
+		"/E/Study/Python/_StudyProject/SSD-Tensorflow-master/tf_extended"
+	],
+	"file_history":
+	[
+		"/E/Work/bolt-v1.20_B1/include/lib_types.h",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/CTags.sublime-settings",
+		"//10.141.194.136/gavin/workspace/bolt-v1.20_B1/config/flash-partitions.c.in",
+		"//10.141.194.136/gavin/workspace/bolt-v1.20_B1/ssbl/ui/ui_memtest.c",
+		"//10.141.194.136/gavin/workspace/bolt-v1.20_B1/include/ui_command.h",
+		"//10.141.194.136/gavin/workspace/bolt-v1.20_B1/ssbl/main/main.c",
+		"//10.141.194.136/gavin/workspace/bolt-v1.20_B1/ssbl/arch/board_update.c",
+		"//10.141.194.136/gavin/workspace/bolt-v1.20_B1/include/lib_printf.h",
+		"//10.141.194.136/gavin/workspace/bolt-v1.20_B1/fsbl/fsbl-main.c",
+		"//10.141.194.136/gavin/workspace/bolt-v1.20_B1/custom/custom_main.c",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"//10.141.194.136/gavin/workspace/bolt-v1.20_B1/ssbl/ui/ui_command.c",
+		"//10.141.194.136/gavin/workspace/bolt-v1.20_B1/ssbl/ui/ui_cmddisp.c",
+		"//10.141.194.136/gavin/workspace/bolt-v1.20_B1/ssbl/ui/ui_test_flash.c",
+		"//10.141.194.136/gavin/workspace/bolt-v1.20_B1/include/common.h",
+		"//10.141.194.136/gavin/workspace/bolt-v1.20_B1/include/string.h",
+		"//10.141.194.136/gavin/workspace/bolt-v1.20_B1/ssbl/ui/ui_flash.c",
+		"//10.141.194.136/gavin/workspace/bolt-v1.20_B1/ssbl/ui/ui_memcmds.c",
+		"//10.141.194.136/gavin/workspace/bolt-v1.20_B1/ssbl/main/boot.c",
+		"//10.141.194.136/gavin/workspace/bolt-v1.20_B1/ssbl/ui/ui_init.c",
+		"/V/home/gavin/workspace/bolt-v2.00_B1/config/family-3390b0.cfg",
+		"/V/home/gavin/workspace/bolt-v2.00_B1/config/flash-partitions.c.in",
+		"/V/home/gavin/workspace/bolt-v2.00_B1/custom/custom_main.c",
+		"/V/home/gavin/workspace/bolt-v2.00_B1/gen/3390b0/board_params.c",
+		"//10.141.194.136/gavin/workspace/bolt-v2.00_B1/Makefile.Bolt",
+		"/E/Work/DataCard/DataCardnew/DataCard.UI/Program.cs",
+		"/E/Work/DataCard/DataCardnew/DataCard.LAN/TestAction.cs",
+		"/E/Work/DataCard/DataCardnew/DataCard.LAN/NetworkInterfaceCard.cs",
+		"//10.141.194.136/gavin/workspace/bolt-v2.00_B1/config/family-3390a0.cfg",
+		"//10.141.194.136/gavin/workspace/bolt-v2.00_B1/config/family-3390b0.cfg",
+		"/C/Users/Administrator/AppData/Local/Temp/BNZ.5a78f91f547a149/buildConfigB0.cfg",
+		"/Y/workspace/UCG3390_Prod_6.1.2mp2/tools/buildConfigB0.cfg",
+		"/E/Work/PJ_cmCGA4233/Foxconn_Patch/UCG3390_Prod_6.1.2_Patch/2.UCG3390_Prod_6.1.2_hwtest/tools/buildConfigB0.cfg",
+		"/C/Users/Administrator/AppData/Local/Temp/BNZ.5a78f77b541384a/buildConfigB0.cfg",
+		"/E/Work/PJ_cmCGA4233/Firmware_Factory/CGA4233_LA_612mp2_20180115/txt_file/bcm_4360_5G_P453_vars.txt",
+		"/E/ProgramUdata/vbScripSecureCRT/handle_txt_file/version_2/txt2.txt",
+		"/E/ProgramUdata/vbScripSecureCRT/handle_txt_file/txt.vbs",
+		"/E/ProgramUdata/vbScripSecureCRT/handle_txt_file/curpower-E0-800-1.5dB-20180130.txt",
+		"//10.141.194.136/gavin/workspace/u-boot-1.1.6/mkconfig",
+		"//10.141.194.136/gavin/workspace/u-boot-1.1.6/Makefile",
+		"//10.141.194.136/gavin/workspace/OpenBFC_17_4/tools/buildConfigB0.cfg",
+		"//10.141.194.136/gavin/workspace/OpenBFC_17_4/stb/bolt/Makefile",
+		"/E/Work/PJ_cmCGA4233/Foxconn_Patch/Foxconn_Pach_Version2/common/tools/buildConfigB0.cfg",
+		"//10.141.194.136/gavin/workspace/OpenBFC_17_4/bolt-v2.00_B1/config/family-3390b0.cfg",
+		"/Y/workspace/Makefile_Template/Makefile",
+		"//10.141.194.136/gavin/workspace/linux-4.14.12/Kconfig",
+		"//10.141.194.136/gavin/workspace/linux-4.14.12/init/do_mounts.h",
+		"/D/Study/C与C++/_Study_Project_C/HelloWorld/hello.cpp",
+		"/D/Study/C与C++/_Study_Project_C/Analog_mousekeyboard/Analog_mousekeyboard.c",
+		"/D/Study/C与C++/_Study_Project_C/HelloWorld/Hello.c",
+		"/C/Users/Gavin/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"//10.141.194.136/gavin/workspace/linux-4.14.12/Makefile",
+		"/C/Users/Gavin/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/C/Users/Gavin/AppData/Roaming/Sublime Text 3/Packages/User/Git.sublime-settings",
+		"/D/PJ_cmCGA4233/Firmware_Customer/USB_Image_pc15_sip_CGA4233GA_180110_Release_Prod/autorun.sh",
+		"/Y/workspace/linux-4.14.12/Makefile",
+		"/Y/workspace/linux-4.14.12/arch/arm/Makefile",
+		"/Y/workspace/linux-4.14.12/usr/Kconfig",
+		"/Y/workspace/linux-4.14.12/arch/arm/mach-stm32/board-dt.c",
+		"/Y/workspace/linux-4.14.12/arch/arm/mach-stm32/Makefile",
+		"/D/Study/ARMm7_STM32F7/_Study_Project/MDK_DisplayOled/CORE/core_cm7.h",
+		"/Y/Workspace/Template_GCC_Makefile/Drivers/CMSIS/Device/ST/STM32F7xx/Source/Templates/arm/startup_stm32f723xx.s",
+		"/Y/Workspace/Template_GCC_Makefile/Drivers/CMSIS/Device/ST/STM32F7xx/Include/stm32f7xx.h",
+		"/Y/Workspace/Template_GCC_Makefile/mx.scratch",
+		"/D/Study/ARMm7_STM32F7/_Study_Project/Template_GCC_Makefile/Template_GCC_Makefile/STM32F767IGTx_FLASH.ld",
+		"/D/Study/ARMm7_STM32F7/_Study_Project/Template_GCC_Makefile/Template_GCC_Makefile/startup_stm32f767xx.s",
+		"/D/Study/ARMm7_STM32F7/_Study_Project/Template_GCC_Makefile/Template_GCC_Makefile/Drivers/CMSIS/Include/core_cm7.h",
+		"/C/Users/Gavin/AppData/Roaming/Sublime Text 3/Packages/User/CTags.sublime-settings",
+		"/C/Users/Gavin/AppData/Roaming/Sublime Text 3/Packages/CTags/CTags.sublime-settings",
+		"/E/Study/ARMm7_STM32F7/_Study_Project/Template_GCC_Makefile/Template_GCC_Makefile/SublimeText/Template_GCC_Makefile",
+		"/E/Study/ARMm7_STM32F7/_Study_Project/Template_GCC_Makefile/Template_GCC_Makefile/Makefile",
+		"/V/CGA4233_SourceCode/stb/bolt/ssbl/main/main.c",
+		"/E/MyBlog/STM32F767Probation.html",
+		"/F/Documents/bookmarks_2017_12_21.html",
+		"/V/CGA4233_SourceCode/stb/bolt/ssbl/arch/bcm_devices.c",
+		"/V/CGA4233_SourceCode/stb/bolt/ssbl/arch/bcm_init_flash.c",
+		"/V/CGA4233_SourceCode/stb/bolt/include/device.h",
+		"/V/CGA4233_SourceCode/stb/bolt/ssbl/dev/dev_nandflash.c",
+		"/V/CGA4233_SourceCode/stb/bolt/include/lib_physio.h",
+		"/V/CGA4233_SourceCode/stb/bolt/rbbmemc/memc.c",
+		"/V/CGA4233_SourceCode/stb/bolt/include/fsbl-common.h",
+		"/V/CGA4233_SourceCode/stb/bolt/include/iocb-defs.h",
+		"/V/CGA4233_SourceCode/stb/bolt/Makefile.Bolt",
+		"/V/CGA4233_SourceCode/stb/bolt/Makefile",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/my_make.sublime-build",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/Terminal/Terminal.sublime-settings",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/Git/Git.sublime-settings",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/makefile.sublime-build",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Git.sublime-settings",
+		"/V/CGA4233_SourceCode/stb/bolt/ssbl/main/macaddr.c",
+		"/V/CGA4233_SourceCode/stb/bolt/include/lib_printf.h",
+		"/V/CGA4233_SourceCode/stb/bolt/include/dev_norflash.h",
+		"/V/CGA4233_SourceCode/stb/bolt/include/devfuncs.h",
+		"/V/CGA4233_SourceCode/stb/bolt/ssbl/lib/lib_printf.c"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 157.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/E/Study/Python/_StudyProject/SSD-Tensorflow-master/tf_extended/math.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2653,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/E/Study/Python/_StudyProject/SSD-Tensorflow-master/caffe_to_tensorflow.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2227,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								324,
+								324
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 216.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/E/Study/Python/_StudyProject/SSD-Tensorflow-master/COMMANDS.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 12024,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								892,
+								892
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 486.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/E/Study/Python/_StudyProject/SSD-Tensorflow-master/README.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9293,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								752,
+								752
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 55.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 116.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 94.0
+	},
+	"pinned_build_system": "",
+	"project": "SSD-Tensorflow-master.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"lib_types.h",
+				"include\\lib_types.h"
+			],
+			[
+				"packagecontrol",
+				"C:\\Users\\Administrator\\AppData\\Roaming\\Sublime Text 3\\Packages\\User\\Package Control.sublime-settings"
+			],
+			[
+				"common.h",
+				"include\\common.h"
+			],
+			[
+				"",
+				"ssbl\\main\\main.c"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 263.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 1
+	}
+}
